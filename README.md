@@ -21,6 +21,7 @@ weather-dashboard/
 
 
 
+
 - **index.html** — Main application page using Bootstrap for layout.  
 - **style.css** — Custom styling layered on top of Bootstrap.  
 - **script.js** — API calls, DOM manipulation, forecast rendering, and error handling.  
