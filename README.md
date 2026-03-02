@@ -47,7 +47,7 @@ weather-dashboard/
 - CSS3  
 - Bootstrap 5  
 - JavaScript (ES6+)  
-- OpenWeather API  
+- OpenWeather API  > https://home.openweathermap.org/api_keys
 - Google Fonts (Inter)
 
 ---
